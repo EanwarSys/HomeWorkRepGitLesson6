@@ -3,8 +3,5 @@
 ## commit
 ## log 
 ## rm
-<<<<<<< HEAD
-=======
 ## branch
->>>>>>> features1
 ## merge
