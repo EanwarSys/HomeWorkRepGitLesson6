@@ -2,3 +2,4 @@
 ## status
 ## commit
 ## log 
+## Pravka
